@@ -1,4 +1,4 @@
-# Instacart
+# Instacart: Insights on Product Sales, Consumer Behavior, and Item Assocations
 
 Xiao Sean Guo
 
